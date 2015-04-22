@@ -23,6 +23,8 @@ On Linux host(I used Ubuntu 14.04):
 
 After this, you can update and upgrade Debian like normal PC. 
 
+Similar host control can also happens in Window machine by using Putty. But I got the problem with X11 problem even after I enable X11 in Putty. 
+
 7. Even though the micro SD card is 32gb, but the Debian system only takes up within 4gb, so if you want to work with the whole memory, you have to expand the SD card storage (http://elinux.org/Beagleboard:Expanding_File_System_Partition_On_A_microSD). 
 # ls /dev/mmcblk*
 /dev/mmcblk0
