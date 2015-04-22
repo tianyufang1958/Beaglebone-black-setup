@@ -110,3 +110,5 @@ Filesystem at /dev/mmcblk0p2 is mounted on /; on-line resizing required
 old_desc_blocks = 1, new_desc_blocks = 1
 The filesystem on /dev/mmcblk0p2 is now 2018560 blocks long.
 
+8. File transfer between host PC and BBB can be implement by scp command.
+scp directory/filename bo@192.168.7.2:/home/debian
